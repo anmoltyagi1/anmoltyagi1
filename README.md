@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Anmol_Tyagi)
