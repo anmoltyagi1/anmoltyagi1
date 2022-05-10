@@ -33,9 +33,12 @@ Here are some ideas to get you started:
 
 
 Get in touch with me 💬
-<div align="center" style="background:#414a50; padding: 25px 0;">
+<div align="left" style="background:#414a50; padding: 25px 0;">
      <a href="https://www.linkedin.com/in/anmoltyagi1/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+    </a>
+    <a href="https://www.instagram.com/_anmoltyagii/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Connect on Instagram">
     </a>
   
     
