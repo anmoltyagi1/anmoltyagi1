@@ -38,9 +38,7 @@ Get in touch with me 💬
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
   
-    <a href="https://www.instagram.com/_anmoltyagii/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Connect on Instagram">
-    </a>
+    
   
 </div>
 
