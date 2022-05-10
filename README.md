@@ -1,4 +1,4 @@
-### Hi there I'm Anmol👋 
+### Hi there, I'm Anmol👋 
 
 <!--
 **anmoltyagi1/anmoltyagi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
