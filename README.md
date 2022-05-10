@@ -2,6 +2,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/3o7TKBYact31GcyS40/giphy.gif" />
+
 - 🎓 &nbsp; Studying Computer Engineering @ <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">University of Waterloo</a>
 - 🦾 &nbsp; Always interested and exploring cool fields of Artificial Intelligence
 - 👨‍💻 &nbsp; Currently a Software Engineer Intern
@@ -9,7 +11,7 @@
 - 🏎 &nbsp; Love watching Formula 1 racing
 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/3o7TKBYact31GcyS40/giphy.gif" />
+
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoltyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="Anmol" /> </p>
