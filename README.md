@@ -1,4 +1,4 @@
-### Hi there, I'm Anmol👋 
+### <h1> Hi there, I'm Anmol👋  </h1>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
