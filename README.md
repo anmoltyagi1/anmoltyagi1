@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&extension=activity&theme=nord)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Anmol_Tyagi&extension=activity&theme=nord)
