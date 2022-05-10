@@ -9,6 +9,9 @@
 - 🏎 &nbsp; Love watching Formula 1 racing
 
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/8P4bnTyGQykuHxhWOm/giphy.gif?cid=ecf05e47ttbxq2ilgdns131bzz3s77ssluvrujw45dfdwi22&rid=giphy.gif&ct=g
+" />
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoltyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 <!--
