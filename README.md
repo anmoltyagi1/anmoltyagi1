@@ -1,5 +1,16 @@
 ### Hi there, I'm Anmol👋 
 
+## 👨🏻‍💻 &nbsp;About Me 
+
+- 🎓 &nbsp; Studying Computer Engineering @ <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">University of Waterloo</a>
+- 🦾 &nbsp; Always interested and exploring cool fields of Artificial Intelligence
+- 👨‍💻 &nbsp; Currently a Software Engineer Intern
+- 🏀 &nbsp; Always looking to play or watch basketball
+- 🏎 &nbsp; Love watching Formula 1 racing
+
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 <!--
 **anmoltyagi1/anmoltyagi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
