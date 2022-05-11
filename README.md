@@ -59,9 +59,9 @@ Get in touch with me 💬
     
   
 </div>
-<!---
+
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Anmol_Tyagi&extension=activity&theme=nord)
---->
+
 
 -----
 
