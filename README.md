@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/3o7TKBYact31GcyS40/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="[https://media0.giphy.com/media/3o7TKBYact31GcyS40/giphy.gif](https://i.giphy.com/media/BFjLXxNMMHuyHlKrnb/giphy.webp)" />
 
 - 🎓 &nbsp; Studying Computer Engineering @ <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">University of Waterloo</a>
 - 🦾 &nbsp; Always interested and exploring cool fields of Artificial Intelligence
